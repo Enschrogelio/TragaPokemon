@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     tv.setTextColor(Color.RED);
 
                 }
-                else { tv.setText("Suerte la proxima vez"); }
+                else { tv.setText("Suerte la próxima vez"); }
 
             }
             else
